@@ -1,4 +1,4 @@
-Ce dossier contient tous les containers docker
+Ce dossier contient tous les containers Docker.
 
 Chaque dossier contient son dockerfile permettant la construction de l'image, ainsi que les packages associés permettant d'introduire toutes les bibliothèques nécessaires à la construction de l'image. 
 
