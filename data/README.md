@@ -4,4 +4,4 @@ Ce dossier contient tous les fichiers nécessaire pour le traitement via DESq2 :
 - GeneSpecificInformation est le fichier contenant les noms de tous les gènes (obtenu via AureoWiki)
 - GSE139659 est le fichier contenant les résultats des expériences des chercheurs de l'article
 
-Ce dossier comprend aussi les scripts R nécessaire à la réalisation des figures.
+Ce dossier comprend aussi les scripts R nécessaires à la réalisation des figures.
