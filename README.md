@@ -16,7 +16,7 @@ L’objectif est de garantir la reproductibilité complète des résultats : mê
 | **`nextflow.config`** | Fichier de configuration du pipeline : définit les images Docker à utiliser (appel depuis DockerHub). |
 | **`Container_docker/`** | Contient un Dockerfile pour chaque outil utilisé (Bowtie, Cutadapt, FeatureCounts, DESeq2, etc.). Les images correspondantes sont disponibles sur DockerHub. |
 | **`Data/`** | Données d’entrée :<br>• `config.csv` - table de description des échantillons (nom, URL FASTQ, réplicat, condition)<br>• script R (analyse DESeq2). |
-
+| **`recent/`** | Dossier contenant les figures faîtes avec les containers Docker des logiciels en versions actuelles|
 
 ---
 
